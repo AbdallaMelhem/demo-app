@@ -23,7 +23,7 @@ function App() {
         </button>
         <p>
           {/* Edit <code>src/App.jsx</code> and save to test HMR */}
-          demo #3.
+          Hello World!
         </p>
       </div>
       <p className="read-the-docs">
